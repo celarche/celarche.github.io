@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://celarche.github.io/sitemap.celarche.gz
+Sitemap: https://celarche.github.io/app/sitemap.celarche.gz
+Sitemap: https://celarche.github.io/assets/sitemap.celarche.gz
+Sitemap: https://celarche.github.io/css/sitemap.celarche.gz
+Sitemap: https://celarche.github.io/data/sitemap.celarche.gz
+Sitemap: https://celarche.github.io/includes/sitemap.celarche.gz
+Sitemap: https://celarche.github.io/item/sitemap.celarche.gz
+Sitemap: https://celarche.github.io/src/sitemap.celarche.gz
